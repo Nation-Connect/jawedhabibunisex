@@ -1,45 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from www.kaylaspansalon.com/photo-gallery.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 30 May 2024 14:55:13 GMT -->
 <head>
 <meta charset="utf-8">
-<title>Kayla Spa &amp; Salon, Photo Gallery, Kayla Spa and Salon, Banglore, india</title>
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<meta name="description" content="Kayla Spa &amp; Salon, Photo Gallery, Kayla Spa and Salon, Banglore, india" />
-<meta name="keywords" content="Kayla Spa &amp; Salon, Photo Gallery, Kayla Spa and Salon, Banglore, india">
-<link rel="shortcut icon" href="img/fav.png">
-<link href="css/style.css" rel="stylesheet" type="text/css">
-<link href="css/boostrap.css" rel="stylesheet" type="text/css">
-<link href="css/fancybox/jquery.fancybox.html" rel="stylesheet">
-<link href="css/flexslider.css" rel="stylesheet" type="text/css">
-<link href="css/prettyPhoto.css" rel="stylesheet" type="text/css">
-<link rel="stylesheet" href="css/bootstrap.min.css">
-<link rel="stylesheet" href="css/bootstrap-responsive.min.css">
-<meta name="author" content="http://cloudmedia.co.in/" />
-<!-- css -->
+<title>Jawed Habib Salon &amp; Salon - Best Salon in Patna for Spa, Massage, Bridal Makeup, Hair Care</title>
 
-<link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700' rel='stylesheet' type='text/css'>
-<script src="../ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-	<script>
-		$(function() {
-			var pull 		= $('#pull');
-				menu 		= $('nav ul');
-				menuHeight	= menu.height();
-
-			$(pull).on('click', function(e) {
-				e.preventDefault();
-				menu.slideToggle();
-			});
-
-			$(window).resize(function(){
-        		var w = $(window).width();
-        		if(w > 320 && menu.is(':hidden')) {
-        			menu.removeAttr('style');
-        		}
-    		});
-		});
-	</script>
+<?php include 'head.php'; ?>
 </head>
 <body>
 <div id="wrapper">
@@ -206,27 +172,13 @@
         </div>
     </section>
     
-    <footer>
-    	<p>&copy; KAYLA Spa n Salon. All Rights Reserved. | <a href="https://www.facebook.com/kaylaspansalon" target="_blank"><i class="fa fa-facebook"></i></a> | <i class="fa fa-twitter"></i> | <a href="https://plus.google.com/110915499592734573685/about" target="_blank"><i class="fa fa-google-plus"></i></a> <span>Dz by : <a href="http://www.cloudmedia.co.in/" target="_blank">cm</a></span></p>
-    </footer>
+    <?php include 'footer.php'; ?>
 
 </div>
 <a href="#" class="scrollup"><i class="fa fa-angle-up active"></i></a>
 <!-- javascript
     ================================================== -->
-<script src="js/jquery.js"></script>
-<script src="js/jquery.easing.1.3.js"></script>
-<script src="js/bootstrap.min.js"></script>
-<script src="js/jquery.fancybox.pack.js"></script>
-<script src="js/jquery.fancybox-media.js"></script> 
-<script src="js/portfolio/jquery.quicksand.js"></script>
-<script src="js/portfolio/setting.js"></script>
-<script src="js/jquery.flexslider.js"></script>
-<script src="js/animate.js"></script>
-<script src="js/custom.js"></script>
-
-<script src="js/jquery.prettyPhoto.js"></script>
-<script src="js/main.js"></script>        
+    <?php include 'foot.php'; ?>     
 
 <script>
     // Colorbox Call
@@ -236,17 +188,7 @@
             });
 </script>
 
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','../www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-86030662-1', 'auto');
-  ga('send', 'pageview');
-
-</script>
 </body>
 
-<!-- Mirrored from www.kaylaspansalon.com/photo-gallery.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 30 May 2024 14:55:23 GMT -->
+
 </html>

@@ -6,55 +6,12 @@
 
 <title>Jawed Habib Salon &amp; Salon - Best Salon in Patna for Spa, Massage, Bridal Makeup, Hair Care</title>
 
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<meta name="description" content="Jawed Habib Salon offers the best spa, salon, massage, bridal makeup, and hair care services in Patna, India. Visit us for a rejuvenating experience." />
-<meta name="keywords" content="Salon in Patna, Spa in Patna, Bridal Makeup in Patna, Hair Care in Patna, Massage in Patna, Best Salon in Patna, Best Spa in Patna" />
-<link rel="shortcut icon" href="img/fav.png">
-<link href="css/style.css" rel="stylesheet" type="text/css">
-<link href="css/boostrap.css" rel="stylesheet" type="text/css">
-<link href="css/flexslider.css" rel="stylesheet" type="text/css">
-<meta name="author" content="http://cloudmedia.co.in/" />
-<!-- css -->
+<?php include 'head.php'; ?>
 
-<link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700' rel='stylesheet' type='text/css'>
-<script src="../ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-	<script>
-		$(function() {
-			var pull 		= $('#pull');
-				menu 		= $('nav ul');
-				menuHeight	= menu.height();
-
-			$(pull).on('click', function(e) {
-				e.preventDefault();
-				menu.slideToggle();
-			});
-
-			$(window).resize(function(){
-        		var w = $(window).width();
-        		if(w > 320 && menu.is(':hidden')) {
-        			menu.removeAttr('style');
-        		}
-    		});
-		});
-	</script>
 </head>
 <body>
 <div id="wrapper">
-	<header>
-        <nav class="clearfix">
-            <ul class="clearfix">
-            <li><a href="index.html" class="active">Home</a></li>
-            <li><a href="about-us.html">About Us</a></li>
-            <li><a href="loyalty-package.html">Products</a></li>
-            <li><a href="package.html">Package</a></li>
-            <li><a href="bridal.html">Bridal</a></li>
-            <li><a href="photo-gallery.html">Photos</a></li>
-            <li><a href="contact-us.html">Contact Us</a></li>
-            </ul>
-            <a href="#" id="pull"></a>
-        </nav>
-        <div class="logo"><img src="img/logo.png" alt="Jawed Habib Salon in patna"></div>
-	</header>
+  <?php include 'header.php'; ?>
     
     <section id="featured">
     <!-- Slider -->
@@ -155,36 +112,13 @@
         </div>
     </section>
     
-    <footer>
-    	<p>&copy; Jawed Habib Salon in patna n Salon. All Rights Reserved. | <a href="https://www.facebook.com/kaylaspansalon" target="_blank"><i class="fa fa-facebook"></i></a> | <i class="fa fa-twitter"></i> | <a href="https://plus.google.com/110915499592734573685/about" target="_blank"><i class="fa fa-google-plus"></i></a> <span>Dz by : <a href="http://www.cloudmedia.co.in/" target="_blank">cm</a></span></p>
-    </footer>
+    <?php include 'footer.php'; ?>
 
 </div>
-<a href="#" class="scrollup"><i class="fa fa-angle-up active"></i></a>
 <!-- javascript
     ================================================== -->
-<script src="js/jquery.js"></script>
-<script src="js/jquery.easing.1.3.js"></script>
-<script src="js/bootstrap.min.js"></script>
-<script src="js/jquery.fancybox.pack.js"></script>
-<script src="js/jquery.fancybox-media.js"></script> 
-<script src="js/portfolio/jquery.quicksand.js"></script>
-<script src="js/portfolio/setting.js"></script>
-<script src="js/jquery.flexslider.js"></script>
-<script src="js/animate.js"></script>
-<script src="js/custom.js"></script>
 
-
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','../www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-86030662-1', 'auto');
-  ga('send', 'pageview');
-
-</script>
+<?php include 'foot.php'; ?>
 
 </body>
 
