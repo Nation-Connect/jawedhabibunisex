@@ -4,7 +4,7 @@
 <head>
 <meta charset="utf-8">
 
-<title>Jawed Habib Salon &amp; Salon - Best Salon in Patna for Spa, Massage, Bridal Makeup, Hair Care</title>
+<title>Jawed Habib Salon Patna - Best Hair & Beauty Services | Mithapur Sabji Mandi, First Floor, Crystal Castle, Near ICICI Bank, Near Goriya Math, Patna, Bihar, India</title>
 
 <?php include 'head.php'; ?>
 
@@ -62,7 +62,7 @@
         <div class="col-lg-1">
         	<a href="loyalty-package.php">
         	<div class="col-sm-3">
-            <img src="img/loyalty-package.png" alt="Loyalty Package" class="img-responsive">
+            <img src="img/hairserviceinpatna.png" alt="jawed habib Patna" class="img-responsive">
             <div class="col-sm-4">
             <h4>Hair Service</h4>
             <p>Discover top-notch hair services at our jawed habib patna! From cuts to treatments, we cater to all your hair needs. Experience the best care for your looks with us. Check jawed habib patna price list .
@@ -80,7 +80,7 @@
             
             <a href="package.php">
             <div class="col-sm-3">
-            <img src="img/pakage-img.jpg" alt="Kayla Sapa Package" class="img-responsive">
+            <img src="img/beautyservices.png" alt="jawed habib patna" class="img-responsive">
             <div class="col-sm-4">
             <h4>Beauty Services:</h4>
             <p>Discover luxury beauty services at jawed habib patna. Elevate your style with expert haircare, skincare, and more.jawed habib patna price list Book now for a glamorous transformation! . 
@@ -101,7 +101,7 @@
             
             <a href="bridal.php">
             <div class="col-sm-3">
-            <img src="img/bridal.jpg" alt="jawed habib patna" class="img-responsive">
+            <img src="img/bridaljawedhabibpatna.png" alt="jawed habib patna" class="img-responsive">
             <div class="col-sm-4">
             <h4>Bridal</h4>
             <p> Elevate your bridal beauty with our expert services. From flawless makeup to stunning hair, trust us to make your special day truly unforgettable.   jawed habib patna price list by book now 
@@ -123,7 +123,7 @@
             </a>
             
             <a href="contact-us.php"><div class="col-sm-3">
-            <img src="img/kayla-pic.jpg" alt="jawed habib patna" class="img-responsive">
+            <img src="img/homenailservice.png" alt="jawed habib patna" class="img-responsive">
             <div class="col-sm-4">
             <h4>Body Services</h4>
             <p>Revitalize your body with our luxurious spa treatments. Indulge in relaxation and rejuvenation for a blissful escape at our salon. jawed habib patna price list by book now 

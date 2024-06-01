@@ -3,7 +3,7 @@
 
 <head>
 <meta charset="utf-8">
-<title>Jawed Habib Salon &amp; Salon - Best Salon in Patna for Spa, Massage, Bridal Makeup, Hair Care</title>
+<title>Jawed Habib Salon Patna - Best Hair & Beauty Services | Mithapur Sabji Mandi, First Floor, Crystal Castle, Near ICICI Bank, Near Goriya Math, Patna, Bihar, India</title>
 
 <?php include 'head.php'; ?>
 	<script>
@@ -78,11 +78,13 @@
     <section id="content">
     	<div class="col-lg-1">
         <h3>Bridal</h3>
-                <p>It is never a cake walk being a bride. Not only everyone expects you to look beautiful on the day itself, but also the results must stand up to scrutiny for years afterwards, in photos and on video. So every effort is worth to perfect your ravishing appearance. We ensure you look radiant with exquisite hair and makeup, Stunning with a hint of Glamour on <br><br>
+                <p>  At Jawed Habib Salon in Patna, we understand that your wedding day is one of the most important days of your life, and we're here to make it even more memorable. Our bridal makeup services are tailored to suit your individual preferences and personality, ensuring that you feel confident and beautiful as you walk down the aisle. Whether you prefer a natural, soft glam look or something more dramatic and bold, our experienced makeup artists will work with you to create the perfect bridal look that reflects your unique style. With attention to detail and the highest quality products, we guarantee you'll look and feel your best on your wedding day. Trust Jawed Habib Salon in Patna to bring your bridal vision to life and make your dreams a reality.<br><br>
 
-Our consultation prior to the wedding day ensures there is nothing left towards anxiety about stealing the spotlight on the big day.
-
-</p>
+Our consultation prior to the wedding day ensures there is nothing left towards anxiety about stealing the spotlight on the big day. 
+<br>
+<br>
+At Jawed Habib Salon in Patna, we believe that every groom deserves to look and feel his best on his wedding day. Our dedicated team of grooming experts specializes in creating sophisticated and tailored looks that enhance your natural features and complement your personal style. Whether you're aiming for a traditional, classic look or something more modern and trendy, we're here to bring your vision to life. From expert hair styling to precise grooming and skincare treatments, we offer a range of services designed specifically for grooms. With our attention to detail and commitment to excellence, you can trust Jawed Habib Salon to ensure you look sharp, confident, and ready to say "I do" on your special day. Schedule your grooming appointment with us today and let us help you make a lasting impression as you embark on this new chapter of your life.
+<p>
         </div>
         
         

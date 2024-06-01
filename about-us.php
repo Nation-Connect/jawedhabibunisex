@@ -3,7 +3,7 @@
 
 <head>
 <meta charset="utf-8">
-<title>Jawed Habib Salon &amp; Salon - Best Salon in Patna for Spa, Massage, Bridal Makeup, Hair Care</title>
+<title>Jawed Habib Salon Patna - Best Hair & Beauty Services | Mithapur Sabji Mandi, First Floor, Crystal Castle, Near ICICI Bank, Near Goriya Math, Patna, Bihar, India</title>
 
 <?php include 'head.php'; ?>
 
@@ -60,13 +60,15 @@
         
         <div class="col-lg-1">
         <h3>About Us</h3>
-        <p>The characterization of a person, whether on an individual basis or by community, is often based on a combination of inner beauty, and outer beauty .Radiant beauty is what emanates from a fit and healthy body.<br><br>
- 
- Kayla unisex spa & salon, one of its kinds, initiated with a firm perspective in delivering you persuasive and personalised rejuvenation procedure to improve the appearance of your hair and skin. Beauty can be adapted and transformed in many ways but enhancing it naturally is the best way. At Kayla  we believe in being a one stop destination for all towards enhancement of their inherent elegance  using natural techniques, while being pampered by our skilled personnel.<br><br>
+        <p>
+Welcome to Jawed Habib Salon in Mithapur! Our goal is simple: to enhance your natural beauty with personalized treatments designed just for you. We believe true beauty shines from the inside out, and our team is dedicated to helping you glow. Whether you want to refresh your skin or revive your hair, we've got you covered with customized therapies tailored to your needs. With our focus on natural techniques and a holistic approach to beauty, We at Jawed Habib patna  is your go-to spot for feeling your best. Come experience the magic of self-care with us today!
+
+
+<br><br>
  
 We offer personalized skin and hair therapies<br><br>
  
-The VLCC Skin Care and Skin Treatments range of services is all about improving the wellness of your skin. Our highly skilled professionals suggest treatments only after thoroughly examining your skin type and allergies.
+Our experts carefully look at your skin type and any allergies before suggesting you.
 </p>
            
             

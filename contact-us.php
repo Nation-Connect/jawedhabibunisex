@@ -3,7 +3,7 @@
 
 <head>
 <meta charset="utf-8">
-<title>Jawed Habib Salon &amp; Salon - Best Salon in Patna for Spa, Massage, Bridal Makeup, Hair Care</title>
+<title>Jawed Habib Salon Patna - Best Hair & Beauty Services | Mithapur Sabji Mandi, First Floor, Crystal Castle, Near ICICI Bank, Near Goriya Math, Patna, Bihar, India</title>
 
 <?php include 'head.php'; ?>
 	
@@ -24,17 +24,17 @@
 	<header>
         <nav class="clearfix">
             <ul class="clearfix">
-            <li><a href="index-2.php">Home</a></li>
-            <li><a href="about-us.html">About Us</a></li>
+            <li><a href="index.php">Home</a></li>
+            <li><a href="about-us.php">About Us</a></li>
             <li><a href="loyalty-package.php">Loyalty Package</a></li>
             <li><a href="package.php">Package</a></li>
-            <li><a href="bridal.html">Bridal</a></li>
-            <li><a href="photo-gallery.html">Photos</a></li>
-            <li><a href="contact-us.html" class="active">Contact Us</a></li>
+            <li><a href="bridal.php">Bridal</a></li>
+            <li><a href="photo-gallery.php">Photos</a></li>
+            <li><a href="contact-us.php" class="active">Contact Us</a></li>
             </ul>
             <a href="#" id="pull"></a>
         </nav>
-        <div class="logo"><img src="img/logo.png" alt="kayla"></div>
+        <div class="logo"><img src="img/logo.png" alt="Jawed Habib Salon in Patna"></div>
 	</header>
     
     <section id="featured">
@@ -42,13 +42,13 @@
         <div id="main-slider" class="flexslider">
             <ul class="slides">
               <!--<li>
-                <img src="img/slider/1.jpg" class="img-responsive" alt="KAYLA Spa &amp; Salon" />
+                <img src="img/slider/1.jpg" class="img-responsive" alt="Jawed Habib Salon in Patna" />
               </li>
               <li>
-                <img src="img/slider/2.jpg" class="img-responsive" alt="KAYLA Spa &amp; Salon" />
+                <img src="img/slider/2.jpg" class="img-responsive" alt="Jawed Habib Salon in Patna" />
               </li>
               <li>
-                <img src="img/slider/3.jpg" class="img-responsive" alt="KAYLA Spa &amp; Salon" />
+                <img src="img/slider/3.jpg" class="img-responsive" alt="Jawed Habib Salon in Patna" />
               </li>-->
               
                             
@@ -65,7 +65,7 @@
         
         <div class="col-lg-1">
         <div class="col-md-2"><h3>Contact Us</h3>
-        <img src="img/logo-small.png" alt="Kayla">
+        <img src="img/logo-small.png" alt="Jawed Habib Salon in Patna">
         	<h5><i class="fa fa-map-marker" style="color:#d7b56d;"></i>
               No 17, 1st Floor, New bel road<br> Jaladharshini layout, Bangalore - 560054.</h5>
               <p><i class="fa fa-phone-square" style="color:#d7b56d;"></i> +91 9740044588<br>
@@ -76,7 +76,7 @@
         </div>
         <div class="col-md-3">
         <h3>Feedback</h3>
-        <form id="frmContact" action="https://www.kaylaspansalon.com/sendmail.php" method="post">
+        <form id="frmContact" action="https://www.jawdhabib.com/sendmail.php" method="post">
         <input name="name" type="text" placeholder="Enter Your Name" required="required" onChange="getdetails(this.value);">
         <input name="email" type="text" placeholder="Enter Your e-mail id" required="required" onChange="getdetails(this.value);">
         <input name="phone" type="text" placeholder="Enter Your phone number" required="required" onChange="getdetails(this.value);">
@@ -98,7 +98,7 @@
   js.src = "../connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.3";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
-<div class="fb-page" data-href="https://www.facebook.com/kaylaspansalon" data-hide-cover="false" data-show-facepile="true" data-show-posts="false"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/kaylaspansalon"><a href="https://www.facebook.com/kaylaspansalon">KAYLA SPA N SALON</a></blockquote></div></div>
+<div class="fb-page" data-href="https://www.facebook.com/p/The-Jawed-Habib-Salon-Mithapur-100054324619113/" data-hide-cover="false" data-show-facepile="true" data-show-posts="false"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/p/The-Jawed-Habib-Salon-Mithapur-100054324619113/"><a href="https://www.facebook.com/p/The-Jawed-Habib-Salon-Mithapur-100054324619113/">Jawed Habib Salon in Mithapur</a></blockquote></div></div>
         
         </div>   
             
