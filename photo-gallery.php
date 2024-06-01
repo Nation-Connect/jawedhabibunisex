@@ -22,7 +22,7 @@
             </ul>
             <a href="#" id="pull"></a>
         </nav>
-        <div class="logo"><img src="img/logo.png" alt="kayla"></div>
+        <div class="logo"><img src="img/logo.png" alt="jawed habib patna"></div>
 	</header>
     
     <section id="featured">
@@ -30,22 +30,22 @@
         <div id="main-slider" class="flexslider">
             <ul class="slides">
               <li>
-                <img src="img/slider/1.jpg" class="img-responsive" alt="KAYLA Spa &amp; Salon" />
+                <img src="img/slider/1.jpg" class="img-responsive" alt="jawed habib patna &amp; Salon" />
               </li>
               <li>
-                <img src="img/slider/2.jpg" class="img-responsive" alt="KAYLA Spa &amp; Salon" />
+                <img src="img/slider/2.jpg" class="img-responsive" alt="jawed habib patna &amp; Salon" />
               </li>
               <li>
-                <img src="img/slider/3.jpg" class="img-responsive" alt="KAYLA Spa &amp; Salon" />
+                <img src="img/slider/3.jpg" class="img-responsive" alt="jawed habib patna &amp; Salon" />
               </li>
               <li>
-                <img src="img/slider/5.jpg" class="img-responsive" alt="Kayla Spa &amp; Salon" />
+                <img src="img/slider/5.jpg" class="img-responsive" alt="jawed habib patna &amp; Salon" />
               </li>
               <li>
-                <img src="img/slider/6.jpg" class="img-responsive" alt="Kayla Spa &amp; Salon" />
+                <img src="img/slider/6.jpg" class="img-responsive" alt="jawed habib patna &amp; Salon" />
               </li>
               <li>
-                <img src="img/slider/7.jpg" class="img-responsive" alt="Kayla Spa &amp; Salon" />
+                <img src="img/slider/7.jpg" class="img-responsive" alt="jawed habib patna &amp; Salon" />
               </li>
             </ul>
         </div>
@@ -61,108 +61,108 @@
         	<ul class="thumbnails">
                 <div style="float: left;">
                 <li class="span3">
-                        <a class="thumbnail" rel="lightbox[group]" href="img/photos/01.jpg"><img class="group1" src="img/photos/01.jpg" title="KAYLA Spa &amp; Salon" /></a>
+                        <a class="thumbnail" rel="lightbox[group]" href="img/photos/jawed-habib-patna (1).jpg"><img class="group1" src="img/photos/jawed-habib-patna (1).jpg" title="jawed habib patna &amp; Salon" /></a>
                     </li> <!--end thumb -->
                     <li class="span3">
-                        <a class="thumbnail" rel="lightbox[group]" href="img/photos/02.jpg"><img class="group1" src="img/photos/02.jpg" title="KAYLA Spa &amp; Salon" /></a>
+                        <a class="thumbnail" rel="lightbox[group]" href="img/photos/jawed-habib-patna (2).jpg"><img class="group1" src="img/photos/jawed-habib-patna (2).jpg" title="jawed habib patna &amp; Salon" /></a>
                     </li> <!--end thumb -->
                     <li class="span3">
-                        <a class="thumbnail" rel="lightbox[group]" href="img/photos/03.jpg"><img class="group1" src="img/photos/03.jpg" title="KAYLA Spa &amp; Salon" /></a>
+                        <a class="thumbnail" rel="lightbox[group]" href="img/photos/jawed-habib-patna (3).jpg"><img class="group1" src="img/photos/jawed-habib-patna (3).jpg" title="jawed habib patna &amp; Salon" /></a>
                     </li> <!--end thumb -->
                     <li class="span3">
-                        <a class="thumbnail" rel="lightbox[group]" href="img/photos/04.jpg"><img class="group1" src="img/photos/04.jpg" title="KAYLA Spa &amp; Salon" /></a>
-                    </li> <!--end thumb -->
-                    </div>
-                    <div style="float: left;">
-                    <li class="span3">
-                        <a class="thumbnail" rel="lightbox[group]" href="img/photos/05.jpg"><img class="group1" src="img/photos/05.jpg" title="KAYLA Spa &amp; Salon" /></a>
-                    </li> <!--end thumb -->
-                    <li class="span3">
-                        <a class="thumbnail" rel="lightbox[group]" href="img/photos/06.jpg"><img class="group1" src="img/photos/06.jpg" title="KAYLA Spa &amp; Salon" /></a>
-                    </li> <!--end thumb -->
-                    <li class="span3">
-                        <a class="thumbnail" rel="lightbox[group]" href="img/photos/11.jpg"><img class="group1" src="img/photos/11.jpg" title="KAYLA Spa &amp; Salon" /></a>
-                    </li> <!--end thumb -->
-                    <li class="span3">
-                        <a class="thumbnail" rel="lightbox[group]" href="img/photos/10.jpg"><img class="group1" src="img/photos/10-s.jpg" title="KAYLA Spa &amp; Salon" /></a>
+                        <a class="thumbnail" rel="lightbox[group]" href="img/photos/jawed-habib-patna (4).jpg"><img class="group1" src="img/photos/jawed-habib-patna (4).jpg" title="jawed habib patna &amp; Salon" /></a>
                     </li> <!--end thumb -->
                     </div>
                     <div style="float: left;">
                     <li class="span3">
-                        <a class="thumbnail" rel="lightbox[group]" href="img/photos/08.jpg"><img class="group1" src="img/photos/08.jpg" title="KAYLA Spa &amp; Salon" /></a>
+                        <a class="thumbnail" rel="lightbox[group]" href="img/photos/jawed-habib-patna (5).jpg"><img class="group1" src="img/photos/jawed-habib-patna (5).jpg" title="jawed habib patna &amp; Salon" /></a>
                     </li> <!--end thumb -->
                     <li class="span3">
-                        <a class="thumbnail" rel="lightbox[group]" href="img/photos/09.jpg"><img class="group1" src="img/photos/09.jpg" title="KAYLA Spa &amp; Salon" /></a>
+                        <a class="thumbnail" rel="lightbox[group]" href="img/photos/jawed-habib-patna (6).jpg"><img class="group1" src="img/photos/jawed-habib-patna (6).jpg" title="jawed habib patna &amp; Salon" /></a>
                     </li> <!--end thumb -->
                     <li class="span3">
-                        <a class="thumbnail" rel="lightbox[group]" href="img/photos/07.jpg"><img class="group1" src="img/photos/07.jpg" title="KAYLA Spa &amp; Salon" /></a>
+                        <a class="thumbnail" rel="lightbox[group]" href="img/photos/jawed-habib-patna (7).jpg"><img class="group1" src="img/photos/jawed-habib-patna (7).jpg" title="jawed habib patna &amp; Salon" /></a>
                     </li> <!--end thumb -->
-                    
                     <li class="span3">
-                        <a class="thumbnail" rel="lightbox[group]" href="img/photos/12.jpg"><img class="group1" src="img/photos/12.jpg" title="KAYLA Spa &amp; Salon" /></a>
+                        <a class="thumbnail" rel="lightbox[group]" href="img/photos/jawed-habib-patna (8).jpg"><img class="group1" src="img/photos/jawed-habib-patna (8).jpg" title="jawed habib patna &amp; Salon" /></a>
                     </li> <!--end thumb -->
                     </div>
-                    
                     <div style="float: left;">
                     <li class="span3">
-                        <a class="thumbnail" rel="lightbox[group]" href="img/photos/13.jpg"><img class="group1" src="img/photos/13.jpg" title="KAYLA Spa &amp; Salon" /></a>
+                        <a class="thumbnail" rel="lightbox[group]" href="img/photos/jawed-habib-patna (9).jpg"><img class="group1" src="img/photos/jawed-habib-patna (9).jpg" title="jawed habib patna &amp; Salon" /></a>
+                    </li> <!--end thumb -->
+                    <li class="span3">
+                        <a class="thumbnail" rel="lightbox[group]" href="img/photos/jawed-habib-patna (10).jpg"><img class="group1" src="img/photos/jawed-habib-patna (10).jpg" title="jawed habib patna &amp; Salon" /></a>
+                    </li> <!--end thumb -->
+                    <li class="span3">
+                        <a class="thumbnail" rel="lightbox[group]" href="img/photos/jawed-habib-patna (11).jpg"><img class="group1" src="img/photos/jawed-habib-patna (11).jpg" title="jawed habib patna &amp; Salon" /></a>
                     </li> <!--end thumb -->
                     
                     <li class="span3">
-                        <a class="thumbnail" rel="lightbox[group]" href="img/photos/14.jpg"><img class="group1" src="img/photos/14.jpg" title="KAYLA Spa &amp; Salon" /></a>
-                    </li> <!--end thumb -->
-                    <li class="span3">
-                        <a class="thumbnail" rel="lightbox[group]" href="img/photos/15.jpg"><img class="group1" src="img/photos/15.jpg" title="KAYLA Spa &amp; Salon" /></a>
-                    </li> <!--end thumb -->
-                    <li class="span3">
-                        <a class="thumbnail" rel="lightbox[group]" href="img/photos/16.jpg"><img class="group1" src="img/photos/16.jpg" title="KAYLA Spa &amp; Salon" /></a>
+                        <a class="thumbnail" rel="lightbox[group]" href="img/photos/jawed-habib-patna (4).jpg"><img class="group1" src="img/photos/jawed-habib-patna (4).jpg" title="jawed habib patna &amp; Salon" /></a>
                     </li> <!--end thumb -->
                     </div>
                     
                     <div style="float: left;">
                     <li class="span3">
-                        <a class="thumbnail" rel="lightbox[group]" href="img/photos/17.jpg"><img class="group1" src="img/photos/17.jpg" title="KAYLA Spa &amp; Salon" /></a>
+                        <a class="thumbnail" rel="lightbox[group]" href="img/photos/jawed-habib-patna (13).jpg"><img class="group1" src="img/photos/jawed-habib-patna (13).jpg" title="jawed habib patna &amp; Salon" /></a>
+                    </li> <!--end thumb -->
+                    
+                    <li class="span3">
+                        <a class="thumbnail" rel="lightbox[group]" href="img/photos/jawed-habib-patna (14).jpg"><img class="group1" src="img/photos/jawed-habib-patna (14).jpg" title="jawed habib patna &amp; Salon" /></a>
                     </li> <!--end thumb -->
                     <li class="span3">
-                        <a class="thumbnail" rel="lightbox[group]" href="img/photos/18.jpg"><img class="group1" src="img/photos/18.jpg" title="KAYLA Spa &amp; Salon" /></a>
+                        <a class="thumbnail" rel="lightbox[group]" href="img/photos/jawed-habib-patna (1).jpg"><img class="group1" src="img/photos/jawed-habib-patna (1).jpg" title="jawed habib patna &amp; Salon" /></a>
                     </li> <!--end thumb -->
                     <li class="span3">
-                        <a class="thumbnail" rel="lightbox[group]" href="img/photos/19.jpg"><img class="group1" src="img/photos/19.jpg" title="KAYLA Spa &amp; Salon" /></a>
-                    </li> <!--end thumb -->
-                    <li class="span3">
-                        <a class="thumbnail" rel="lightbox[group]" href="img/photos/20.jpg"><img class="group1" src="img/photos/20.jpg" title="KAYLA Spa &amp; Salon" /></a>
+                        <a class="thumbnail" rel="lightbox[group]" href="img/photos/jawed-habib-patna (2).jpg"><img class="group1" src="img/photos/jawed-habib-patna (2).jpg" title="jawed habib patna &amp; Salon" /></a>
                     </li> <!--end thumb -->
                     </div>
                     
-                    
                     <div style="float: left;">
                     <li class="span3">
-                        <a class="thumbnail" rel="lightbox[group]" href="img/photos/21.jpg"><img class="group1" src="img/photos/21.jpg" title="KAYLA Spa &amp; Salon" /></a>
+                        <a class="thumbnail" rel="lightbox[group]" href="img/photos/jawed-habib-patna (3).jpg"><img class="group1" src="img/photos/jawed-habib-patna (3).jpg" title="jawed habib patna &amp; Salon" /></a>
                     </li> <!--end thumb -->
                     <li class="span3">
-                        <a class="thumbnail" rel="lightbox[group]" href="img/photos/22-big.jpg"><img class="group1" src="img/photos/22.jpg" title="KAYLA Spa &amp; Salon" /></a>
+                        <a class="thumbnail" rel="lightbox[group]" href="img/photos/jawed-habib-patna (4).jpg"><img class="group1" src="img/photos/jawed-habib-patna (4).jpg" title="jawed habib patna &amp; Salon" /></a>
                     </li> <!--end thumb -->
                     <li class="span3">
-                        <a class="thumbnail" rel="lightbox[group]" href="img/photos/23.jpg"><img class="group1" src="img/photos/23.jpg" title="KAYLA Spa &amp; Salon" /></a>
+                        <a class="thumbnail" rel="lightbox[group]" href="img/photos/jawed-habib-patna (5).jpg"><img class="group1" src="img/photos/jawed-habib-patna (5).jpg" title="jawed habib patna &amp; Salon" /></a>
                     </li> <!--end thumb -->
                     <li class="span3">
-                        <a class="thumbnail" rel="lightbox[group]" href="img/photos/24.jpg"><img class="group1" src="img/photos/24.jpg" title="KAYLA Spa &amp; Salon" /></a>
+                        <a class="thumbnail" rel="lightbox[group]" href="img/photos/jawed-habib-patna (6).jpg"><img class="group1" src="img/photos/jawed-habib-patna (6).jpg" title="jawed habib patna &amp; Salon" /></a>
                     </li> <!--end thumb -->
                     </div>
                     
                     
                     <div style="float: left;">
                     <li class="span3">
-                        <a class="thumbnail" rel="lightbox[group]" href="img/photos/25.jpg"><img class="group1" src="img/photos/25.jpg" title="KAYLA Spa &amp; Salon" /></a>
+                        <a class="thumbnail" rel="lightbox[group]" href="img/photos/jawed-habib-patna (7).jpg"><img class="group1" src="img/photos/jawed-habib-patna (7).jpg" title="jawed habib patna &amp; Salon" /></a>
                     </li> <!--end thumb -->
                     <li class="span3">
-                        <a class="thumbnail" rel="lightbox[group]" href="img/photos/26.jpg"><img class="group1" src="img/photos/26.jpg" title="KAYLA Spa &amp; Salon" /></a>
+                        <a class="thumbnail" rel="lightbox[group]" href="img/photos/jawed-habib-patna (8).jpg"><img class="group1" src="img/photos/jawed-habib-patna (8).jpg" title="jawed habib patna &amp; Salon" /></a>
                     </li> <!--end thumb -->
                     <li class="span3">
-                        <a class="thumbnail" rel="lightbox[group]" href="img/photos/27.jpg"><img class="group1" src="img/photos/27.jpg" title="KAYLA Spa &amp; Salon" /></a>
+                        <a class="thumbnail" rel="lightbox[group]" href="img/photos/jawed-habib-patna (10).jpg"><img class="group1" src="img/photos/jawed-habib-patna (10).jpg" title="jawed habib patna &amp; Salon" /></a>
                     </li> <!--end thumb -->
                     <li class="span3">
-                        <a class="thumbnail" rel="lightbox[group]" href="img/photos/28.jpg"><img class="group1" src="img/photos/28.jpg" title="KAYLA Spa &amp; Salon" /></a>
+                        <a class="thumbnail" rel="lightbox[group]" href="img/photos/jawed-habib-patna (1).jpg"><img class="group1" src="img/photos/jawed-habib-patna (1).jpg" title="jawed habib patna &amp; Salon" /></a>
+                    </li> <!--end thumb -->
+                    </div>
+                    
+                    
+                    <div style="float: left;">
+                    <li class="span3">
+                        <a class="thumbnail" rel="lightbox[group]" href="img/photos/jawed-habib-patna (11).jpg"><img class="group1" src="img/photos/jawed-habib-patna (11).jpg" title="jawed habib patna &amp; Salon" /></a>
+                    </li> <!--end thumb -->
+                    <li class="span3">
+                        <a class="thumbnail" rel="lightbox[group]" href="img/photos/jawed-habib-patna (10).jpg"><img class="group1" src="img/photos/jawed-habib-patna (10).jpg" title="jawed habib patna &amp; Salon" /></a>
+                    </li> <!--end thumb -->
+                    <li class="span3">
+                        <a class="thumbnail" rel="lightbox[group]" href="img/photos/jawed-habib-patna (13).jpg"><img class="group1" src="img/photos/jawed-habib-patna (13).jpg" title="jawed habib patna &amp; Salon" /></a>
+                    </li> <!--end thumb -->
+                    <li class="span3">
+                        <a class="thumbnail" rel="lightbox[group]" href="img/photos/jawed-habib-patna (14).jpg"><img class="group1" src="img/photos/jawed-habib-patna (14).jpg" title="jawed habib patna &amp; Salon" /></a>
                     </li> <!--end thumb -->
                     </div>
                     
