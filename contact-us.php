@@ -36,27 +36,20 @@
         </nav>
         <div class="logo"><img src="img/logo.png" alt="Jawed Habib Salon in Patna"></div>
 	</header>
-    
-    <section id="featured">
+
+  <section id="featured">
     <!-- Slider -->
-        <div id="main-slider" class="flexslider">
-            <ul class="slides">
-              <!--<li>
-                <img src="img/slider/1.jpg" class="img-responsive" alt="Jawed Habib Salon in Patna" />
-              </li>
-              <li>
-                <img src="img/slider/2.jpg" class="img-responsive" alt="Jawed Habib Salon in Patna" />
-              </li>
-              <li>
-                <img src="img/slider/3.jpg" class="img-responsive" alt="Jawed Habib Salon in Patna" />
-              </li>-->
-              
-                            
-              <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script><div style="overflow:hidden;height:300px;width:100%;"><div id="gmap_canvas" style="height:300px;width:100%;"></div><style>#gmap_canvas img{max-width:none!important;background:none!important}</style><a class="google-map-code" href="http://wordpress-hosting.me/" id="get-map-data">http://wordpress-hosting.me</a></div><script type="text/javascript"> function init_map(){var myOptions = {zoom:17,center:new google.maps.LatLng(13.031493144772085,77.57001356004935),mapTypeId: google.maps.MapTypeId.ROADMAP};map = new google.maps.Map(document.getElementById("gmap_canvas"), myOptions);marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(13.031493144772085, 77.57001356004935)});infowindow = new google.maps.InfoWindow({content:"<b> KAYLA Spa &amp; Salon</b><br/>NO 17, 1ST FLOOR, NEW BEL ROAD JALADHARSHINI LAYOUT, <br/> BANGALORE-560054" });google.maps.event.addListener(marker, "click", function(){infowindow.open(map,marker);});infowindow.open(map,marker);}google.maps.event.addDomListener(window, 'load', init_map);</script>
-            </ul>
-        </div>
-	<!-- end slider -->
-    </section>
+    <div id="main-slider" class="flexslider">
+        <ul class="slides">
+            <li>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14392.45450192246!2d85.12659480280524!3d25.601140287742606!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39ed591acc409a0f%3A0x102f798b87409c55!2sjawed%20habib!5e0!3m2!1sen!2sin!4v1717244309951!5m2!1sen!2sin" width="930" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </li>
+        </ul>
+    </div>
+    <!-- end slider -->
+</section>
+
+
     
     <section id="content">
     	<div class="col-lg-1">
@@ -65,13 +58,13 @@
         
         <div class="col-lg-1">
         <div class="col-md-2"><h3>Contact Us</h3>
-        <img src="img/logo-small.png" alt="Jawed Habib Salon in Patna">
+
         	<h5><i class="fa fa-map-marker" style="color:#d7b56d;"></i>
-              No 17, 1st Floor, New bel road<br> Jaladharshini layout, Bangalore - 560054.</h5>
-              <p><i class="fa fa-phone-square" style="color:#d7b56d;"></i> +91 9740044588<br>
-             <i class="fa fa-phone-square" style="color:#d7b56d;"></i> +91 80 40944388<br>
-             <i class="fa fa-envelope" style="color:#d7b56d;"></i> info@ka<span style="color:#4d887e;font-weight:bold;">y</span>laspansalon.com<br>
-             <i class="fa fa-globe" style="color:#d7b56d;"></i> www.ka<span style="color:#4d887e;font-weight:bold;">y</span>laspansalon.com</p>
+          First Floor, Crystal Castle,<br> Subji Market, near Goriya Math, near ICICI Bank, Jakkanpur, Mithapur, Patna, Bihar 800001</h5>
+              <p><i class="fa fa-phone-square" style="color:#d7b56d;"></i> +91 81029 25674<br>
+             <i class="fa fa-phone-square" style="color:#d7b56d;"></i> +91 9473199528<br>
+             <i class="fa fa-envelope" style="color:#d7b56d;"></i> info@jawedhabibunisex.com<span style="color:#4d887e;font-weight:bold;"> <br> </span> 
+             <i class="fa fa-globe" style="color:#d7b56d;"></i> jawedhabibunisex.com<span style="color:#4d887e;font-weight:bold;"> </span> </p>
             
         </div>
         <div class="col-md-3">
@@ -89,20 +82,33 @@
         
         </div> 
         <!--Faceboo Likebox-->
+      
+
+
+
         <div class="col-md-4">
-     <div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "../connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.3";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-<div class="fb-page" data-href="https://www.facebook.com/p/The-Jawed-Habib-Salon-Mithapur-100054324619113/" data-hide-cover="false" data-show-facepile="true" data-show-posts="false"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/p/The-Jawed-Habib-Salon-Mithapur-100054324619113/"><a href="https://www.facebook.com/p/The-Jawed-Habib-Salon-Mithapur-100054324619113/">Jawed Habib Salon in Mithapur</a></blockquote></div></div>
-        
-        </div>   
-            
+    <div id="fb-root"></div>
+    <script>
+        (function(d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = "https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.3";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+    </script>
+    <div class="fb-page" data-href="https://www.facebook.com/p/The-Jawed-Habib-Salon-Mithapur-100054324619113/" data-hide-cover="false" data-show-facepile="true" data-show-posts="false">
+        <div class="fb-xfbml-parse-ignore">
+            <blockquote cite="https://www.facebook.com/p/The-Jawed-Habib-Salon-Mithapur-100054324619113/">
+                <a href="https://www.facebook.com/p/The-Jawed-Habib-Salon-Mithapur-100054324619113/">Jawed Habib Salon in Mithapur</a>
+            </blockquote>
         </div>
+    </div>
+    <div class="fb-like" data-href="https://www.facebook.com/p/The-Jawed-Habib-Salon-Mithapur-100054324619113/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="true"></div>
+</div>
+
+
+
     </section>
     
     <?php include 'footer.php'; ?>
