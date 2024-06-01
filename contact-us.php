@@ -24,10 +24,10 @@
 	<header>
         <nav class="clearfix">
             <ul class="clearfix">
-            <li><a href="index-2.html">Home</a></li>
+            <li><a href="index-2.php">Home</a></li>
             <li><a href="about-us.html">About Us</a></li>
-            <li><a href="loyalty-package.html">Loyalty Package</a></li>
-            <li><a href="package.html">Package</a></li>
+            <li><a href="loyalty-package.php">Loyalty Package</a></li>
+            <li><a href="package.php">Package</a></li>
             <li><a href="bridal.html">Bridal</a></li>
             <li><a href="photo-gallery.html">Photos</a></li>
             <li><a href="contact-us.html" class="active">Contact Us</a></li>

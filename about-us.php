@@ -13,13 +13,13 @@
 	<header>
         <nav class="clearfix">
             <ul class="clearfix">
-            <li><a href="index-2.html">Home</a></li>
-            <li><a href="about-us.html" class="active">About Us</a></li>
-            <li><a href="products.html">Products</a></li>
-            <li><a href="package.html">Package</a></li>
-            <li><a href="bridal.html">Bridal</a></li>
-            <li><a href="photo-gallery.html">Photos</a></li>
-            <li><a href="contact-us.html">Contact Us</a></li>
+            <li><a href="index.php">Home</a></li>
+            <li><a href="about-us.php" class="active">About Us</a></li>
+            <li><a href="products.php">Products</a></li>
+            <li><a href="package.php">Package</a></li>
+            <li><a href="bridal.php">Bridal</a></li>
+            <li><a href="photo-gallery.php">Photos</a></li>
+            <li><a href="contact-us.php">Contact Us</a></li>
             </ul>
             <a href="#" id="pull"></a>
         </nav>

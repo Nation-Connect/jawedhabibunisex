@@ -1,3 +1,3 @@
 <footer>
-    	<p>&copy; Jawed Habib Salon in patna n Salon. All Rights Reserved. | <a href="#" target="_blank"><i class="fa fa-facebook"></i></a> | <i class="fa fa-twitter"></i> | <a href="#" target="_blank"><i class="fa fa-google-plus"></i></a> <span>Dz by : <a href="#" target="_blank">cm</a></span></p>
-    </footer>
+    	<p>&copy; Jawed Habib Salon in patna. All Rights Reserved. | <a href="https://www.facebook.com/p/The-Jawed-Habib-Salon-Mithapur-100054324619113/" target="_blank"><i class="fa fa-facebook"></i></a> | <i class="fa fa-twitter"></i> | <a href="#" target="_blank"><i class="fa fa-google-plus"></i></a> <span> Designed BY : <a href="#" target="_blank">  Sugandh Kumar </a></span></p>
+    </footer> 
