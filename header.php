@@ -3,7 +3,7 @@
             <ul class="clearfix">
             <li><a href="index.php" class="active">Home</a></li>
             <li><a href="about-us.php">About Us</a></li>
-            <li><a href="loyalty-package.php">Products</a></li>
+            <li><a href="our-services.php">Our services</a></li>
             <li><a href="package.php">Package</a></li>
             <li><a href="bridal.php">Bridal</a></li>
             <li><a href="photo-gallery.php">Photos</a></li>

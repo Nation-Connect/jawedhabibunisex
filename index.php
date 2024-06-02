@@ -60,7 +60,7 @@
         </div>
         
         <div class="col-lg-1">
-        	<a href="loyalty-package.php">
+        	<a href="our-services.php">
         	<div class="col-sm-3">
             <img src="img/hairserviceinpatna.png" alt="jawed habib Patna" class="img-responsive">
             <div class="col-sm-4">
