@@ -77,8 +77,6 @@
         <input name="subject" type="text" placeholder="Enter Your Subject" required="required">
         <textarea name="message" cols="" rows="" placeholder="Enter Your Comments" required></textarea>
         <input name="submit" type="submit" class="button" id="send" value="Send">
-        <div class="row">
-                              <div class="col-md-12">
                                 <div id="form-message-success" style="display:none;font-size:20px;margin-top:10px;"
                                   class="mb-4 text-center text-success">
                                   Your message was sent, Thank you!
@@ -87,8 +85,6 @@
                                   class="mb-4 text-center text-danger">
                                   Something went wrong!, please try again.
                                 </div>
-                              </div>
-                            </div>
         </form>
         
         </div> 
@@ -138,7 +134,7 @@
           $(".submit-btn").prop('disabled', false);
           if (data) {
             $('#form-message-success').show().delay(5000).fadeOut(500);
-            $("#contactForm")[0].reset();
+            $("#contact-form")[0].reset();
           } else {
             $('#form-message-danger').show().delay(5000).fadeOut(500);
           }
