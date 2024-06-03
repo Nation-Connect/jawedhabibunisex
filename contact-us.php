@@ -61,8 +61,8 @@
 
         	<h5><i class="fa fa-map-marker" style="color:#d7b56d;"></i>
           First Floor, Crystal Castle,<br> Subji Market, near Goriya Math, near ICICI Bank, Jakkanpur, Mithapur, Patna, Bihar 800001</h5>
-              <p><i class="fa fa-phone-square" style="color:#d7b56d;"></i> +91 81029 25674<br>
-             <i class="fa fa-phone-square" style="color:#d7b56d;"></i> +91 9473199528<br>
+              <p><i class="fa fa-phone-square" style="color:#d7b56d;"></i> +91 7488343893<br>
+             
              <i class="fa fa-envelope" style="color:#d7b56d;"></i> info@jawedhabibunisex.com<span style="color:#4d887e;font-weight:bold;"> <br> </span> 
              <i class="fa fa-globe" style="color:#d7b56d;"></i> jawedhabibunisex.com<span style="color:#4d887e;font-weight:bold;"> </span> </p>
             

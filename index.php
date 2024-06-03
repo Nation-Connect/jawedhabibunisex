@@ -50,12 +50,13 @@
 				</div>
                 <div class="col-sm-2">
                 	<h3>CONTACT US</h3>
-                    <p><i class="fa fa-phone-square"></i> +91 81029 25674<br>
-					   <i class="fa fa-phone-square"></i> +91 9473199528<br><br>
+                    <p><i class="fa fa-phone-square"></i> +91 7488343893<br> <br>
+					   
 
 						<i class="fa fa-map-marker"></i> Mithapur Sabji Mandi, First Floor, Crystal Castle, Near ICICI Bank, Near Goriya Math, Patna, India, Bihar<br><br>
 
-                        <i class="fa fa-envelope"></i> info@.....</p>
+                        <i class="fa fa-envelope"></i> info@jawedhabibunisex.com
+</p>
                 </div>
         </div>
         
@@ -70,7 +71,7 @@
               <br>
               <br>
             </p>
-              <a href="https://api.whatsapp.com/send?phone=8271168973" target="_blank">
+              <a href="https://api.whatsapp.com/send?phone=7488343893" target="_blank">
                   <button style="background-color: green; color: white;">Book Now</button>
               </a>
               
@@ -89,7 +90,7 @@
           
            </p>
 
-            <a href="https://api.whatsapp.com/send?phone=8271168973" target="_blank">
+            <a href="https://api.whatsapp.com/send?phone=7488343893" target="_blank">
                   <button style="background-color: green; color: white;">Book Now</button>
               </a>
 
@@ -113,7 +114,7 @@
 
             </p>
 
-            <a href="https://api.whatsapp.com/send?phone=8271168973" target="_blank">
+            <a href="https://api.whatsapp.com/send?phone=7488343893" target="_blank">
                   <button style="background-color: green; color: white;">Book Now</button>
               </a>
 
@@ -129,7 +130,7 @@
             <p>Revitalize your body with our luxurious spa treatments. Indulge in relaxation and rejuvenation for a blissful escape at our salon. jawed habib patna price list by book now 
 </p>
 <br>
-<a href="https://api.whatsapp.com/send?phone=8271168973" target="_blank">
+<a href="https://api.whatsapp.com/send?phone=7488343893" target="_blank">
                   <button style="background-color: green; color: white;">Book Now</button>
               </a>
             </div>
