@@ -69,7 +69,7 @@
         </div>
         <div class="col-md-3">
         <h3>Feedback</h3>
-        <form id="contact-form frmContact" action="#">
+        <form id="contact-form" action="#">
         <input type="hidden" name="send-contact-mail" />
         <input name="name" type="text" placeholder="Enter Your Name" required="required">
         <input name="email" type="text" placeholder="Enter Your e-mail id" required="required">
