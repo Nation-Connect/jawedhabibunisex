@@ -69,22 +69,31 @@
         </div>
         <div class="col-md-3">
         <h3>Feedback</h3>
-        <form id="frmContact" action="https://www.jawdhabib.com/sendmail.php" method="post">
-        <input name="name" type="text" placeholder="Enter Your Name" required="required" onChange="getdetails(this.value);">
-        <input name="email" type="text" placeholder="Enter Your e-mail id" required="required" onChange="getdetails(this.value);">
-        <input name="phone" type="text" placeholder="Enter Your phone number" required="required" onChange="getdetails(this.value);">
-        <input name="country" type="text" placeholder="Enter Your Country" required="required" onChange="getdetails(this.value);">
-        <input name="city" type="text" placeholder="Enter Your City" required="required" onChange="getdetails(this.value);">
-        <textarea name="comments" cols="" rows="" placeholder="Enter Your Comments" required onChange="getdetails(this.value);"></textarea>
-        <div class="g-recaptcha" data-sitekey="6LfK_9sZAAAAAHMxboVZfcgwN7pIKDFKbi0vpChB"></div>
-        <input name="send" type="submit" class="button" id="send" value="Send">
+        <form id="contact-form frmContact" action="#">
+        <input type="hidden" name="send-contact-mail" />
+        <input name="name" type="text" placeholder="Enter Your Name" required="required">
+        <input name="email" type="text" placeholder="Enter Your e-mail id" required="required">
+        <input name="phone" type="text" placeholder="Enter Your phone number" required="required">
+        <input name="subject" type="text" placeholder="Enter Your Subject" required="required">
+        <textarea name="message" cols="" rows="" placeholder="Enter Your Comments" required></textarea>
+        <input name="submit" type="submit" class="button" id="send" value="Send">
+        <div class="row">
+                              <div class="col-md-12">
+                                <div id="form-message-success" style="display:none;font-size:20px;margin-top:10px;"
+                                  class="mb-4 text-center text-success">
+                                  Your message was sent, Thank you!
+                                </div>
+                                <div id="form-message-danger" style="display:none;font-size:20px;margin-top:10px;"
+                                  class="mb-4 text-center text-danger">
+                                  Something went wrong!, please try again.
+                                </div>
+                              </div>
+                            </div>
         </form>
         
         </div> 
         <!--Faceboo Likebox-->
       
-
-
 
         <div class="col-md-4">
     <div id="fb-root"></div>
@@ -115,6 +124,27 @@
 
 </div>
 <?php include 'foot.php'; ?>
+
+<script>
+      $("#contact-form").submit(function (event) {
+        event.preventDefault();
+        $(".submit-btn").html("<i class=`fa fa-circle-notch fa-spin`></i> Please wait...");
+        $(".submit-btn").prop('disabled', true);
+        $('#form-message-success').hide();
+        $('#form-message-danger').hide();
+        var formValues = $(this).serialize();
+        $.post("mail-service.php", formValues, function (data) {
+          $(".submit-btn").html("Submit");
+          $(".submit-btn").prop('disabled', false);
+          if (data) {
+            $('#form-message-success').show().delay(5000).fadeOut(500);
+            $("#contactForm")[0].reset();
+          } else {
+            $('#form-message-danger').show().delay(5000).fadeOut(500);
+          }
+        });
+      });
+    </script>
 
 </body>
 
