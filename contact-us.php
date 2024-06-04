@@ -3,6 +3,7 @@
 
 <head>
 <meta charset="utf-8">
+<meta name="robots" content="index, follow">
 <title>Jawed Habib Salon Patna - Best Hair & Beauty Services | Mithapur Sabji Mandi, First Floor, Crystal Castle, Near ICICI Bank, Near Goriya Math, Patna, Bihar, India</title>
 
 <?php include 'head.php'; ?>
